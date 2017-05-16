@@ -6,6 +6,6 @@ In this case instead of searching online i created an offline Search Engine
 
 And then Indexer indexes all the pages in the database for quick searching
 
-I created a very minimal gui we basically searches among the database provided
+I created a very minimal gui which basically searches among the database provided
 
 Here as an example i used crawler on a set of Wikipedia Web pages
